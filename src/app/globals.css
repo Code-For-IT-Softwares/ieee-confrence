@@ -20,3 +20,13 @@
 	background-image: url("../../public/BG2.jpeg");
 	background-size: cover;
 } */
+
+td {
+	text-align: center;
+	padding: 4px;
+	border: 2px solid #f8c963;
+}
+
+.td1 {
+	column-span: 2;
+}
