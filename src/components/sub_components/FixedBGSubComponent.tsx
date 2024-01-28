@@ -1,6 +1,6 @@
 import React from "react";
 
-const FixedBGSubComponent = ({ dest }) => {
+const FixedBGSubComponent = ({ dest }: { dest: string }) => {
 	return (
 		<div className="relative h-[25rem] my-6">
 			<div className="absolute z-10 bg-fixed bg-cover opacity-50 bg-[url('../../public/BG3.jpg')] h-full w-full"></div>
