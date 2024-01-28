@@ -1,0 +1,27 @@
+h2 {
+	font-size: xx-large;
+	font-weight: 700;
+}
+
+p {
+	font-size: large;
+	margin: 1rem;
+}
+
+li {
+	list-style-type: square;
+	list-style-position: inside;
+	size: 1rem;
+	margin: 0.6rem;
+}
+
+.m3 {
+	padding-left: 0;
+}
+.m1 {
+	padding-left: 1rem;
+}
+
+.m2 {
+	padding-left: 2rem;
+}
