@@ -2,7 +2,7 @@ import React from "react";
 
 function Registration() {
 	return (
-		<div className="w-screen flex justify-center">
+		<div className="w-screen flex justify-center my-4">
 			<table className="text-center font-serif text-2xl border-solid  border-separate  border-2">
 				<thead>
 					<tr>

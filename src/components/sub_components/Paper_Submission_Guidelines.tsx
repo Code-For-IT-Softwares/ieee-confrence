@@ -10,9 +10,14 @@ const Paper_Submission_Guidelines = () => {
 			<div className="pb-10">
 				Prospective authors are invited to submit their original full
 				paper (maximum 6 pages in IEEE template is available in the
-				following link
-				<a href="https://www.ieee.org/conferences/publishing/templates.html">
-					https://www.ieee.org/conferences/publishing/templates.html
+				following link{" "}
+				<a
+					className="text-blue-400 hover:text-blue-200"
+					href="https://www.ieee.org/conferences/publishing/templates.html"
+				>
+					<u>
+						https://www.ieee.org/conferences/publishing/templates.html
+					</u>
 				</a>
 				) in PDF format. Authors are encouraged to provide experimental
 				verification of the theoretical concepts. The conference is

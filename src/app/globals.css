@@ -30,3 +30,8 @@ td {
 .td1 {
 	column-span: 2;
 }
+
+.headBar img {
+	height: 84%;
+	width: 22%;
+}
