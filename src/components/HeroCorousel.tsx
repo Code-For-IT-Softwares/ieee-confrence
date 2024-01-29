@@ -12,11 +12,11 @@ const HeroCorousel = () => {
 	}, 2000);
 	return (
 		<div>
-			<div className="relative h-[35rem] w-full overflow-hidden">
+			<div className="relative h-[35rem] text-white bg-black w-full overflow-hidden">
 				<img
 					src={Src}
 					alt="cor1"
-					className="absolute opacity-30 w-full h-full "
+					className="absolute opacity-70 w-full h-full "
 				/>
 				<div className="absolute z-10 w-full h-full flex flex-col items-center justify-evenly ">
 					<h2 className="font-bold text-6xl w-3/4 text-center flex-wrap">

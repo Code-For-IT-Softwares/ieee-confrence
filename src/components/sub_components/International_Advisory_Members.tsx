@@ -2,7 +2,7 @@ import React from "react";
 
 const International_Advisory_Members = () => {
 	return (
-		<div className="p-6 border-b-2">
+		<div id="International_Advisory_Members" className="p-6 border-b-2">
 			<h2>International Advisory Members</h2>
 
 			<p>

@@ -2,7 +2,7 @@ import React from "react";
 
 const National_Advisory_Members = () => {
 	return (
-		<div className="p-6 border-b-2">
+		<div id="National_Advisory_Members" className="p-6 border-b-2">
 			<h2>National Advisory Members</h2>
 
 			<p>Dr. GS Tomar, Chairman, IEEE MP Section, India </p>

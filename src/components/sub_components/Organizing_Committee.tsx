@@ -2,7 +2,7 @@ import React from "react";
 
 const Organizing_Committee = () => {
 	return (
-		<div className=" border-b-2">
+		<div id="Organizing_Committee" className=" border-b-2">
 			<div className="p-6">
 				<h2>Chief Patrons</h2>
 				<p>Mr. Naveen Jindal, Chairman, Jindal Group of Companies.</p>

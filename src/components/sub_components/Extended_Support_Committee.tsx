@@ -2,7 +2,7 @@ import React from "react";
 
 const Extended_Support_Committee = () => {
 	return (
-		<div className="p-6 border-b-2">
+		<div id="Extended_Support_Committee" className="p-6 border-b-2">
 			<h2>Extended Support Committee</h2>
 
 			<p>

@@ -7,7 +7,7 @@ import "./CommitteesStyles2.css";
 
 const page = () => {
 	return (
-		<div>
+		<div className="text-black bg-[#ffffff]">
 			<FixedBGSubComponent dest={"Home > Call For Paper"} />
 
 			<Call_for_Papers />

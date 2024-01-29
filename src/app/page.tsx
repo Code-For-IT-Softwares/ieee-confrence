@@ -16,7 +16,7 @@ import Conference_Tracks from "@/components/Conference_Tracks";
 
 const page = () => {
 	return (
-		<div className="text-white bg-[#181A1B] flex flex-col w-full ">
+		<div className="text-black bg-white flex flex-col w-full ">
 			<HeroCorousel />
 			<About_the_Conference />
 			<FixedBgAttachmentVideo1 />

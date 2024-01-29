@@ -2,8 +2,8 @@ import React from "react";
 
 const Call_for_Papers = () => {
 	return (
-		<div className="flex flex-col w-[70%] m-auto bg-[#181A1B] items-center gap-4">
-			<div className="i2ctjourneybottomborder mt-4 pb-2 text-4xl font-bold">
+		<div className="flex flex-col w-[70%] m-auto text-black bg-[#ffffff] items-center gap-4">
+			<div className="i2ctjourneybottomborder text-blue-700 mt-4 pb-2 text-4xl font-bold">
 				Call for Papers
 			</div>
 			{/* <hr className="w-52 h-[10px] text-yellow-900 bg-yellow-600" /> */}

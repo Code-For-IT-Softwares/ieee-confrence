@@ -2,7 +2,7 @@ import React from "react";
 
 const TPC_Members = () => {
 	return (
-		<div className="p-6 border-b-2">
+		<div id="TPC_Members" className="p-6 border-b-2">
 			<h2>TPC Members</h2>
 
 			<p>Prof. Vinod Khadkikar, Khalifa University, Abu Dhabi, UAE</p>

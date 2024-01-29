@@ -2,8 +2,8 @@ import React from "react";
 
 const About_the_Conference = () => {
 	return (
-		<div className="flex flex-col bg-[#181A1B] py-6 items-center gap-4">
-			<div className="i2ctjourneybottomborder mt-4 pb-2 text-4xl font-bold">
+		<div className="flex flex-col text-black bg-white py-6 items-center gap-4">
+			<div className="i2ctjourneybottomborder text-blue-700 mt-4 pb-2 text-4xl font-bold">
 				About the Conference
 			</div>
 			{/* <hr className="w-52 h-[10px] text-yellow-900 bg-yellow-600" /> */}
