@@ -7,41 +7,41 @@ const HeadMenuBar2 = () => {
 		<div className="flex justify-around w-full h-24 items-center">
 			<div className="flex flex-wrap gap-[0.6px] my-5">
 				<a
-					href="../"
+					href="../index.html"
 					className="py-1	 px-2  rounded-md border-blue-700 hover:bg-blue-500 hover:text-white hover:duration-200"
 				>
 					Home
 				</a>
 				<a
-					href="../registration"
+					href="../registration.html"
 					className="py-1	 px-2  rounded-md border-blue-700 hover:bg-blue-500 hover:text-white hover:duration-200"
 				>
 					Registration
 				</a>
 				<a
-					href="../call_for_paper"
+					href="../call_for_paper.html"
 					className="py-1	 px-2  rounded-md border-blue-700 hover:bg-blue-500 hover:text-white hover:duration-200"
 				>
 					Call for Paper
 				</a>
 
-				{/* <a
-					href="../committees"
+				<a
+					href="../committees.html"
 					className="py-1	 px-2  rounded-md border-blue-700 hover:bg-blue-500 hover:text-white hover:duration-200"
 				>
 					Committees
-				</a> */}
-				<a className="py-1	 px-2  rounded-md border-blue-700">
-					<DropdownCommittees />
 				</a>
+				{/* <a className="py-1	 px-2  rounded-md border-blue-700">
+					<DropdownCommittees />
+				</a> */}
 				<a
-					href="../keynote_speakers"
+					href="../keynote_speakers.html"
 					className="py-1	 px-2  rounded-md border-blue-700 hover:bg-blue-500 hover:text-white hover:duration-200"
 				>
 					Keynote Speakers
 				</a>
 				<a
-					href="../contact_us"
+					href="../contact_us.html"
 					className="py-1	 px-2  rounded-md border-blue-700 hover:bg-blue-500 hover:text-white hover:duration-200"
 				>
 					Contact Us
