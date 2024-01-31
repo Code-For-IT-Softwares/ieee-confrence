@@ -13,6 +13,7 @@ import About_the_Conference from "@/components/About_the_Conference";
 import About_the_OPJU from "@/components/About_the_OPJU";
 import Important_Dates from "@/components/Important_Dates";
 import Conference_Tracks from "@/components/Conference_Tracks";
+import OtherSponsorFooter2 from "@/components/OtherSponsorFooter2";
 
 const page = () => {
 	return (
@@ -28,6 +29,7 @@ const page = () => {
 
 			<Conference_Tracks />
 			<SponsorFooter2 />
+			<OtherSponsorFooter2 />
 		</div>
 	);
 };
