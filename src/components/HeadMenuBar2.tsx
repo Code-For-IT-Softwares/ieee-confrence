@@ -47,12 +47,12 @@ const HeadMenuBar2 = () => {
 					Contact Us
 				</a>
 			</div>
-			<div className="flex headBar h-[80%] items-center w-1/2 gap-8 justify-center">
+			{/* <div className="flex headBar h-[80%] items-center w-1/2 gap-8 justify-center max-[600px]:w-0">
 				<img src="logo1.jpeg" alt="Logo" />
 				<img src="logo2.jpeg" alt="Logo" />
 				<img src="logo3.jpeg" alt="Logo" />
 				<img src="logo4.jpeg" alt="Logo" />
-			</div>
+			</div> */}
 			{/* <div className="flex justify-around gap-4">
         <img
           src=""

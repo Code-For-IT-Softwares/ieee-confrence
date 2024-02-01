@@ -11,6 +11,8 @@ const SponsorFooter2 = () => {
 				<img src="logo2.jpeg" alt="Img" />
 				<img src="logo3.jpeg" alt="Img" />
 				<img src="logo4.jpeg" alt="Img" />
+				<img src="logo4.jpeg" alt="Img" />
+				<img src="logo4.jpeg" alt="Img" />
 			</div>
 		</div>
 	);

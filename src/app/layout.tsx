@@ -29,7 +29,7 @@ export default function RootLayout({
 				/>
 			</head>
 			<body className={"text-black bg-[#ffffff]"}>
-				{/* <Headbar1 /> */}
+				<Headbar1 />
 				<HeadMenuBar2 />
 				{children}
 				<CopyrightFooter1 />

@@ -20,10 +20,10 @@ const page = () => {
 		<div className="text-black bg-white flex flex-col w-full ">
 			<HeroCorousel />
 			<About_the_Conference />
-			<FixedBgAttachmentVideo1 />
+			{/* <FixedBgAttachmentVideo1 /> */}
 
 			<About_the_OPJU />
-			<FixedBgAttachmentPaper2 />
+			{/* <FixedBgAttachmentPaper2 /> */}
 
 			<Important_Dates h={1} />
 

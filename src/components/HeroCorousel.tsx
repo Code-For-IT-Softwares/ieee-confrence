@@ -12,17 +12,21 @@ const HeroCorousel = () => {
 	}, 2000);
 	return (
 		<div>
-			<div className="relative h-[35rem] text-white bg-black w-full overflow-hidden">
+			<div className="relative h-[22rem] text-white bg-black w-full overflow-hidden">
 				<img
 					src={Src}
 					alt="cor1"
 					className="absolute opacity-70 w-full h-full "
 				/>
 				<div className="absolute z-10 w-full h-full flex flex-col items-center justify-evenly ">
-					<h2 className="font-bold text-6xl w-3/4 text-center flex-wrap">
-						International Conference on Sustainable Power and Energy{" "}
+					<h2 className="font-bold text-[2.2rem] w-3/4 text-center flex-wrap">
+						{typeof window !== "undefined"
+							? window.innerWidth > 900
+								? "International Conference on Sustainable Power and Energy"
+								: "ICPSE"
+							: ""}{" "}
 						<br />
-						<span className="font-bold text-4xl  text-center flex-wrap">
+						<span className="font-bold text-[1.5rem]  text-center flex-wrap">
 							28<sup>th</sup> -29<sup>th</sup> November, 2024
 						</span>
 					</h2>

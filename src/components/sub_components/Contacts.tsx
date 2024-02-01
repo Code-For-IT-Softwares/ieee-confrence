@@ -7,7 +7,7 @@ const Contacts = () => {
 				Contacts
 			</div>
 			<div className=" w-[70%] flex items-center flex-wrap justify-around gap-10">
-				<div className="flex w-1/3 flex-col items-center">
+				<div className="flex w-1/3 flex-col items-center max-[800px]:w-3/4">
 					<h2 className="text-center text-lg font-bold pt-4">
 						Dr. Sushree Diptimayee Swain (Secretary)
 					</h2>
@@ -26,7 +26,7 @@ const Contacts = () => {
 						<b>Phone:</b> 9109977009
 					</p>
 				</div>
-				<div className="flex w-1/3 flex-col items-center">
+				<div className="flex w-1/3 flex-col items-center max-[800px]:w-3/4">
 					<h2 className="text-center text-lg font-bold pt-4">
 						Dr. Ankireddy Narendra (Secretary)
 					</h2>
@@ -46,7 +46,7 @@ const Contacts = () => {
 					</p>
 				</div>
 
-				<div className="flex w-1/3 flex-col items-center">
+				<div className="flex w-1/3 flex-col items-center max-[800px]:w-3/4">
 					<h2 className="text-center text-lg font-bold pt-4">
 						Dr. Deepak Singh (Secretary)
 					</h2>
@@ -65,7 +65,7 @@ const Contacts = () => {
 						<b>Phone:</b> 9303870700
 					</p>
 				</div>
-				<div className="flex w-1/3 flex-col items-center">
+				<div className="flex w-1/3 flex-col items-center max-[800px]:w-3/4">
 					<h2 className="text-center text-lg font-bold pt-4">
 						Dr. Sandeep Biswal (Convener)
 					</h2>

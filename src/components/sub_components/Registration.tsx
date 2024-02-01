@@ -3,16 +3,16 @@ import React from "react";
 function Registration() {
 	return (
 		<div className="w-screen flex justify-center my-4">
-			<table className="text-center font-serif text-2xl border-blue-900 border-solid  border-separate  border-2">
+			<table className="text-center font-serif text-[1rem] border-blue-900 border-solid  border-separate  border-2">
 				<thead>
 					<tr>
-						<th className=" text-center  p-4   border-separate text-4xl  border-2">
+						<th className=" text-center  p-4   border-separate text-[1.6rem]  border-2 max-[600px]:p-1">
 							Category
 						</th>
-						<th className=" text-center  p-4   border-separate text-4xl  border-2">
+						<th className=" text-center  p-4   border-separate text-[1.6rem]  border-2 max-[600px]:p-1">
 							Active IEEE Memnber
 						</th>
-						<th className=" text-center  p-4   border-separate text-4xl  border-2">
+						<th className=" text-center  p-4   border-separate text-[1.6rem]  border-2 max-[600px]:p-1">
 							Non IEEE Memnber
 						</th>
 					</tr>

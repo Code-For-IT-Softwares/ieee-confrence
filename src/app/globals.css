@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .i2ctjourneybottomborder {
-	border-bottom: 1px solid rgb(150, 103, 1);
+	border-bottom: 1px solid rgb(28, 51, 255);
 }
 
 #triangle {
@@ -12,7 +12,7 @@
 	/* border-left: 50px solid transparent; */
 	border-right: 50px solid transparent;
 
-	border-bottom: 5.5rem solid #a87300;
+	border-bottom: 5.5rem solid #0890ff;
 }
 
 /* .bgatt2 {
@@ -35,3 +35,15 @@ td {
 	height: 84%;
 	width: 17%;
 }
+
+#impdates li {
+	display: flex;
+	justify-content: space-between;
+	font-size: larger;
+	padding: 1rem;
+	gap: 4rem;
+}
+
+/* #impdates li span{
+	mar
+} */

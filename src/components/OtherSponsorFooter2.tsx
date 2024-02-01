@@ -7,7 +7,11 @@ const OtherSponsorFooter2 = () => {
 				Other Sponsers
 			</div>
 			<div className="flex flex-wrap gap-4 justify-center">
-				<img src="logo1.jpeg" alt="Img" />
+				<img
+					src="CodeForItLogo.png"
+					className="w-32 max-[700px]:w-[60%]"
+					alt="Img"
+				/>
 			</div>
 		</div>
 	);
