@@ -2,7 +2,7 @@ import React from "react";
 
 const CopyrightFooter1 = () => {
 	return (
-		<div className="w-full h-[40px] flex items-center justify-around bg-[#d7d8d8] text-black">
+		<div className="w-full h-[40px] flex items-center justify-around bg-blue-800 text-white">
 			<div className="font-medium">
 				Copyright © IEEE ICSPE 2024
 				{/* - WordPress Theme : by{" "}

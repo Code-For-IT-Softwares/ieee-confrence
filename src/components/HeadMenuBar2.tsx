@@ -4,7 +4,7 @@ import DropdownCommittees from "./sub_components/DropdownCommittees";
 
 const HeadMenuBar2 = () => {
 	return (
-		<div className="flex justify-around w-full h-24 items-center">
+		<div className="flex justify-around w-full h-full text-white items-center">
 			<div className="flex flex-wrap gap-[0.6px] my-5">
 				<a
 					href="../index.html"

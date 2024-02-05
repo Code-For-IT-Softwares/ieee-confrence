@@ -17,10 +17,12 @@
 		"@radix-ui/react-dropdown-menu": "^2.0.6",
 		"class-variance-authority": "^0.7.0",
 		"clsx": "^2.1.0",
+		"gsap": "^3.12.5",
 		"lucide-react": "^0.316.0",
 		"next": "14.0.4",
 		"react": "^18",
 		"react-dom": "^18",
+		"scrolltrigger": "^1.0.1",
 		"tailwind-merge": "^2.2.1",
 		"tailwindcss-animate": "^1.0.7"
 	},

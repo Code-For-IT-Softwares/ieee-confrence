@@ -19,17 +19,23 @@ const page = () => {
 	return (
 		<div className="text-black bg-white flex flex-col w-full ">
 			<HeroCorousel />
-			<About_the_Conference />
-			{/* <FixedBgAttachmentVideo1 /> */}
+			<div className="w-full  min-[900px]:flex">
+				<div className="min-[900px]:w-2/3">
+					<About_the_Conference />
+					{/* <FixedBgAttachmentVideo1 /> */}
 
-			<About_the_OPJU />
-			{/* <FixedBgAttachmentPaper2 /> */}
+					<About_the_OPJU />
+					{/* <FixedBgAttachmentPaper2 /> */}
 
-			<Important_Dates h={1} />
+					<Important_Dates h={1} />
 
-			<Conference_Tracks />
-			<SponsorFooter2 />
-			<OtherSponsorFooter2 />
+					<Conference_Tracks />
+				</div>
+				<div className="min-[900px]:w-1/3">
+					<SponsorFooter2 />
+					<OtherSponsorFooter2 />
+				</div>
+			</div>
 		</div>
 	);
 };

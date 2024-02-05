@@ -11,31 +11,33 @@ const Important_Dates = ({ h }: { h: number }) => {
 				""
 			)}
 
-			<ul id="impdates" className=" text-black  mx-auto  ">
-				<li>
-					<span>Call for Proposal Date:</span>
-					<span>2024-03-20</span>
-				</li>
-				<li>
-					<span>Full Paper Submission Date:</span>
-					<span>2024-09-30</span>
-				</li>
-				<li>
-					<span>Notification of Acceptance Date:</span>
-					<span>2024-10-30</span>
-				</li>
-				<li>
-					<span>Final Paper Submission Date:</span>
-					<span>2024-11-15</span>
-				</li>
-				<li>
-					<span>Conference Date:</span>
-					<span>
-						2024-11-28 <br />
-						to 2024-11-29
-					</span>
-				</li>
-			</ul>
+			<table id="impdates" className=" text-black  mx-auto  ">
+				<tbody>
+					<tr>
+						<td>Call for Proposal Date:</td>
+						<td>2024-03-20</td>
+					</tr>
+					<tr>
+						<td>Full Paper Submission Date:</td>
+						<td>2024-09-30</td>
+					</tr>
+					<tr>
+						<td>Notification of Acceptance Date:</td>
+						<td>2024-10-30</td>
+					</tr>
+					<tr>
+						<td>Final Paper Submission Date:</td>
+						<td>2024-11-15</td>
+					</tr>
+					<tr>
+						<td>Conference Date:</td>
+						<td>
+							2024-11-28 <br />
+							to 2024-11-29
+						</td>
+					</tr>
+				</tbody>
+			</table>
 		</div>
 	);
 };
