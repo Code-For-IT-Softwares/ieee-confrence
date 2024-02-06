@@ -40,7 +40,7 @@ const Headbar1 = () => {
 			>
 				<div className=" flex justify-center   h-full w-1/3  max-[600px]:w-0">
 						<img
-							src="CodeForItLogo.png"
+							src="icspe2024.png"
 							className="w-32 max-[650px]:w-[25%] h-20 max-[650px]:h-[50%]"
 							alt="Img"
 						/>
