@@ -38,17 +38,14 @@ const Headbar1 = () => {
 				id="nav"
 				className="fixed top-0 z-50  bg-transparent w-full h-[110px]  font-bold text-[#cacaca] flex justify-center items-center border-b-[0.05px] border-[#4e4e4e] max-[600px]:justify-start"
 			>
-				<div className=" flex justify-end   h-full w-1/3  max-[600px]:w-0">
-					<div className="text-white">
-						<div className=" text-4xl font-bold pr-6 text-center">
-							ICSPE 2024
-						</div>
-						<div className="w-[90%]">
-							Technical Co-Sponsor: MP Section
-						</div>
-					</div>
+				<div className=" flex justify-center   h-full w-1/3  max-[600px]:w-0">
+						<img
+							src="CodeForItLogo.png"
+							className="w-32 max-[650px]:w-[25%] h-20 max-[650px]:h-[50%]"
+							alt="Img"
+						/>
 				</div>
-				<div id="triangle" className="self-end"></div>
+				{/* <div id="triangle" className="self-end"></div> */}
 
 				<div className="flex headBar h-[100%] items-center w-2/3 gap-8 justify-center max-[600px]:w-[90%] ">
 					<HeadMenuBar2 />
@@ -58,6 +55,15 @@ const Headbar1 = () => {
 				<img src="logo4.jpeg" alt="Logo" />
 				<img src="logo4.jpeg" alt="Logo" />
 				<img src="logo4.jpeg" alt="Logo" /> */}
+				</div>
+				<div className=" flex justify-center   h-full w-1/3  max-[600px]:w-0">
+						<a href="https://www.opju.ac.in/" target="blank">
+						<img
+							src="opju-logo.jpeg"
+							className="w-32 max-[650px]:w-[25%] h-20 max-[650px]:h-[50%]"
+							alt="Img"
+						/>
+						</a>
 				</div>
 			</div>
 		</div>

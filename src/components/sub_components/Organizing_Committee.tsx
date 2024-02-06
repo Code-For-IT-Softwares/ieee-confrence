@@ -6,10 +6,6 @@ const Organizing_Committee = () => {
 			<div className="p-6">
 				<h2>Chief Patrons</h2>
 				<p>Mr. Naveen Jindal, Chairman, Jindal Group of Companies.</p>
-			</div>
-
-			<div className="p-6">
-				<h2>Patrons</h2>
 				<p>
 					Ms. Shallu Jindal, Chancellor, OP Jindal University,
 					Raigarh, India.

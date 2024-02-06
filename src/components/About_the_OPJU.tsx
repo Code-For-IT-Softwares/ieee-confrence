@@ -4,7 +4,7 @@ const About_the_OPJU = () => {
 	return (
 		<div className="flex flex-col bg-white py-6 items-center gap-4">
 			<div className="i2ctjourneybottomborder mt-4 text-blue-700 pb-2 text-4xl font-bold">
-				About the OPJU
+				About The OPJU
 			</div>
 			{/* <hr className="w-52 h-[10px] text-yellow-900 bg-yellow-600" /> */}
 			<div className="pb-3 w-3/4 text-left">

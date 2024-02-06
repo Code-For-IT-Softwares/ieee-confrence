@@ -15,25 +15,24 @@ const Important_Dates = ({ h }: { h: number }) => {
 				<tbody>
 					<tr>
 						<td>Call for Proposal Date:</td>
-						<td>2024-03-20</td>
+						<td>March 20<sup>th</sup>, 2024</td>
 					</tr>
 					<tr>
 						<td>Full Paper Submission Date:</td>
-						<td>2024-09-30</td>
+						<td>September 30<sup>th</sup>, 2024</td>
 					</tr>
 					<tr>
 						<td>Notification of Acceptance Date:</td>
-						<td>2024-10-30</td>
+						<td>October 30<sup>th</sup>, 2024</td>
 					</tr>
 					<tr>
 						<td>Final Paper Submission Date:</td>
-						<td>2024-11-15</td>
+						<td>November 15<sup>th</sup>, 2024</td>
 					</tr>
 					<tr>
 						<td>Conference Date:</td>
 						<td>
-							2024-11-28 <br />
-							to 2024-11-29
+							November 28<sup>th</sup>-29<sup>th</sup>, 2024
 						</td>
 					</tr>
 				</tbody>

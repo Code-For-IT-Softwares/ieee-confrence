@@ -7,7 +7,7 @@ const HeadMenuBar2 = () => {
 		<div className="flex justify-around w-full h-full text-white items-center">
 			<div className="flex flex-wrap gap-[0.6px] my-5">
 				<a
-					href="../index.html"
+					href="../"
 					className="py-1	 px-2  rounded-md border-blue-700 hover:bg-blue-500 hover:text-white hover:duration-200"
 				>
 					Home
@@ -25,15 +25,15 @@ const HeadMenuBar2 = () => {
 					Call for Paper
 				</a>
 
-				<a
+				{/* <a
 					href="../committees.html"
 					className="py-1	 px-2  rounded-md border-blue-700 hover:bg-blue-500 hover:text-white hover:duration-200"
 				>
 					Committees
-				</a>
-				{/* <a className="py-1	 px-2  rounded-md border-blue-700">
-					<DropdownCommittees />
 				</a> */}
+				<a className="py-1	 px-2  rounded-md border-blue-700">
+					<DropdownCommittees />
+				</a>
 				<a
 					href="../keynote_speakers.html"
 					className="py-1	 px-2  rounded-md border-blue-700 hover:bg-blue-500 hover:text-white hover:duration-200"

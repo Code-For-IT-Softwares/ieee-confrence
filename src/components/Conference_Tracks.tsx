@@ -4,7 +4,7 @@ const Conference_Tracks = () => {
 	return (
 		<div className="flex flex-col bg-[#eeeeee] py-6 text-black items-center gap-4">
 			<div className="i2ctjourneybottomborder text-blue-700 mt-4 pb-2 text-4xl font-bold">
-				Conference Tracks (not limited to)
+				Conference Tracks (Not Limited To)
 			</div>
 			<div className="pb-3 w-2/3 text-left">
 				<ul className="text-2xl m-4 flex flex-col gap-6">

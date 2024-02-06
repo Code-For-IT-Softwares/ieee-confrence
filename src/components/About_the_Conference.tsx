@@ -4,7 +4,7 @@ const About_the_Conference = () => {
 	return (
 		<div className="flex flex-col text-black bg-white py-6 items-center gap-4">
 			<div className="i2ctjourneybottomborder text-blue-700 mt-4 pb-2 text-4xl font-bold">
-				About the Conference
+				About The Conference
 			</div>
 			{/* <hr className="w-52 h-[10px] text-yellow-900 bg-yellow-600" /> */}
 			<div className="pb-3 w-3/4 text-left">

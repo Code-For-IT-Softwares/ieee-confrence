@@ -31,7 +31,7 @@ const DropdownCommittees = () => {
 							value="top"
 						>
 							<a
-								href="../committees/#Organizing_Committee"
+								href="../committees.html"
 								className="  "
 							>
 								Organizing_Committee
@@ -42,7 +42,7 @@ const DropdownCommittees = () => {
 							value="bottom"
 						>
 							<a
-								href="../committees/#National_Advisory_Members"
+								href="../committees.html#National_Advisory_Members"
 								className="  "
 							>
 								National_Advisory_Members
@@ -52,7 +52,7 @@ const DropdownCommittees = () => {
 							className="hover:bg-blue-400"
 							value="right"
 						>
-							<a href="../committees/#TPC_Members" className="  ">
+							<a href="../committees.html#TPC_Members" className="  ">
 								TPC_Members
 							</a>
 						</DropdownMenuRadioItem>
@@ -61,7 +61,7 @@ const DropdownCommittees = () => {
 							value="right"
 						>
 							<a
-								href="../committees/#Extended_Support_Committee"
+								href="../committees.html#Extended_Support_Committee"
 								className="  "
 							>
 								Extended_Support_Committee

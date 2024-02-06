@@ -8,7 +8,7 @@ const Keynote_Speakers = () => {
 			</div>
 			{/* <hr className="w-52 h-[10px] text-yellow-900 bg-yellow-600" /> */}
 			<div className="pb-3 w-3/4 text-center text-2xl">
-				To be decided ...
+				To be updated soon ...
 			</div>
 		</div>
 	);
