@@ -4,7 +4,7 @@ import FixedBGSubComponent from "@/components/sub_components/FixedBGSubComponent
 const page = () => {
 	return (
 		<div>
-			<FixedBGSubComponent dest={"Home > Contact Us"} />
+			<FixedBGSubComponent dest={"Contact Us"} />
 
 			<Contacts />
 		</div>

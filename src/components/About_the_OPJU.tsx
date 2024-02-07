@@ -7,7 +7,7 @@ const About_the_OPJU = () => {
 				About The OPJU
 			</div>
 			{/* <hr className="w-52 h-[10px] text-yellow-900 bg-yellow-600" /> */}
-			<div className="pb-3 w-3/4 text-left">
+			<div className="pb-3 w-3/4 text-justify">
 				OP Jindal University (OPJU) has been established under the aegis
 				of the Jindal Education and Welfare Society. The O P Jindal
 				Group is a US$ 22 billion conglomerate, employing more than

@@ -6,9 +6,8 @@ const Call_for_Papers = () => {
 			<div className="i2ctjourneybottomborder text-blue-700 mt-4 pb-2 text-4xl font-bold">
 				Call for Papers
 			</div>
-			{/* <hr className="w-52 h-[10px] text-yellow-900 bg-yellow-600" /> */}
-			<div className="pb-10">
-				The first IEEE-sponsored International Conference on Sustainable
+			<div className="pb-0">
+				<p>The first IEEE-sponsored International Conference on Sustainable
 				Power and Energy (ICSPE) 2024 is a biennial event hosted by the
 				department of Electrical Engineering, O P Jindal University
 				Raigarh, CG, India. It provides a venue for power system
@@ -20,8 +19,10 @@ const Call_for_Papers = () => {
 				challenges and solutions. It is planned to host expert seminars
 				to share information and promote idea exchange. The gathering
 				creates a more conducive environment for scientific
-				advancements.
+				advancements.</p>
+				
 			</div>
+			
 		</div>
 	);
 };

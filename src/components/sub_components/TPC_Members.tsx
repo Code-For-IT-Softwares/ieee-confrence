@@ -59,7 +59,7 @@ const TPC_Members = () => {
 			<p>Dr. Venkata Ramana Naik N, NIT Rourkela</p>
 			<p>Dr. Manas Kumar Bera, NIT Rourkela</p>
 			<p>Dr. Subhadeep Paladhi, IIT Indore</p>
-			<p>DR. Jay Prakash Singh, VNIT Nagpur</p>
+			<p>Dr. Jay Prakash Singh, VNIT Nagpur</p>
 			<p>Dr. Chandrasekhar Perumalla, IIT Bhubaneswar</p>
 			<p>Dr. Dipankar De, IIT Bhubaneswar</p>
 			<p>Dr. Siddhartha Deb Roy, MANIT Bhopal</p>

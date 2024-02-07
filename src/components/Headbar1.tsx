@@ -41,7 +41,7 @@ const Headbar1 = () => {
 				<div className=" flex justify-center   h-full w-1/3  max-[600px]:w-0">
 						<img
 							src="icspe2024.png"
-							className="w-32 max-[650px]:w-[25%] h-20 max-[650px]:h-[50%]"
+							className="w-28 max-[650px]:w-[25%]  max-[650px]:h-[50%]"
 							alt="Img"
 						/>
 				</div>
@@ -60,7 +60,7 @@ const Headbar1 = () => {
 						<a href="https://www.opju.ac.in/" target="blank">
 						<img
 							src="opju-logo.jpeg"
-							className="w-32 max-[650px]:w-[25%] h-20 max-[650px]:h-[50%]"
+							className="w-36 max-[650px]:w-[25%] h-full  max-[650px]:h-[50%]"
 							alt="Img"
 						/>
 						</a>

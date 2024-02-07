@@ -5,10 +5,10 @@ import DropdownCommittees from "./sub_components/DropdownCommittees";
 const HeadMenuBar2 = () => {
 	return (
 		<div className="flex justify-around w-full h-full text-white items-center">
-			<div className="flex flex-wrap gap-[0.6px] my-5">
+			<div className="flex flex-wrap gap-[0.6px] my-5 ">
 				<a
 					href="../"
-					className="py-1	 px-2  rounded-md border-blue-700 hover:bg-blue-500 hover:text-white hover:duration-200"
+					className="py-1	 px-2  rounded-md border-blue-700  hover:bg-blue-500 hover:text-white hover:duration-200 "
 				>
 					Home
 				</a>

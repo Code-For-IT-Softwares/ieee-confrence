@@ -5,7 +5,7 @@ import React from "react";
 const page = () => {
 	return (
 		<div>
-			<FixedBGSubComponent dest={"Home > Keynote Speakers"} />
+			<FixedBGSubComponent dest={"Keynote Speakers"} />
 			<Keynote_Speakers />
 		</div>
 	);

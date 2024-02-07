@@ -11,7 +11,7 @@ import "./CommitteesStyles1.css";
 const page = () => {
 	return (
 		<div>
-			<FixedBGSubComponent dest={"Home > Committees"} />
+			<FixedBGSubComponent dest={"Committees"} />
 
 			{/* Heading , Sub headings ka dhyaan rakhna */}
 			<Organizing_Committee />

@@ -6,7 +6,7 @@ import React from "react";
 const page = () => {
 	return (
 		<div>
-			<FixedBGSubComponent dest={"Home > Registration"} />
+			<FixedBGSubComponent dest={"Registration"} />
 			<Important_Dates h={0} />
 			<Registration />
 		</div>
